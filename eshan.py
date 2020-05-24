@@ -260,7 +260,7 @@ def menu():
         print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m6.\x1b[1;93m Start Cloning All Country"
         print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m7.\x1b[1;95m Start Cloning Member Group "
         print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m8.\x1b[1;92m Start Target  Attack"
-        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m9.\x1b[1;91m Mr af2   Massage "
+        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m9.\x1b[1;91m Mr Awlad   Massage "
         print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m10.\033[1;93mShow  Token"
         print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m11.\033[1;91mAfter Cloning Data Reset "
 	print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m0.\033[1;91m logout "
@@ -308,7 +308,7 @@ def pilih():
                 jalan('\033[1;96mpip2 install mechanize') 
                 jalan("\033[1;96mgit clone https://github.com/awlad3301/eshan")
                 jalan('\033[1;96mcd eshan')
-                jalan('\033[1;96mpython2 eshan.py')
+                jalan('\033[1;96mpython2 eshan')
                 jalan('\033[1;96mUser: awlad')
                 jalan('\033[1;96mpass: awlad')
                 jalan('\033[1;92m👆Copy Command & send 2 groups👆')
